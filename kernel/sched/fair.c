@@ -8216,6 +8216,7 @@ static inline struct cpumask *find_rtg_target(struct task_struct *p)
 			rtg_target = NULL;
 	} else {
 		rtg_target = NULL;
+
 	}
 
 	rcu_read_unlock();
