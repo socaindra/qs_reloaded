@@ -128,3 +128,5 @@ kernel/configs/android-*.cfg
 
 # build out dir
 out/
+*.zip
+log.txt
